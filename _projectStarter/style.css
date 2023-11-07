@@ -1,0 +1,26 @@
+/*
+Developer: Devlyn Chelin
+Github: https://github.com/DChelin
+Repo-Link: https://github.com/DChelin/50-Projects-in-50-Days
+URL: https://chelin.dev/
+
+/*Importing the Poppins Fonts below*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+/*Adding border box to everything below.*/
+*{
+    box-sizing: border-box;
+}
+
+/*Setting the font to the body*/
+body {
+    font-family: 'Poppins', san-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
